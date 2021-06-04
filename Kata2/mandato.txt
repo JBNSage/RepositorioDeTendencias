@@ -1,0 +1,3 @@
+27. Check if two strings are Isomorphic: 
+check if for every occurrence of a character in string1 there is a unique mapping with characters in string2. 
+In short, check, if there is one to one mapping or not. Example: "aab" and "xxy" => true; Unique maps x->a, b->y.

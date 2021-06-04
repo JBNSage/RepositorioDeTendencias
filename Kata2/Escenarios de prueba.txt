@@ -1,0 +1,4 @@
+1- dado los strings "aab" y "xxy" retornar => true
+2- dado los strings "humus" y "aguas" retornar => false
+3- dado los strings "humus" y "ferrocarril" retornar => error 'las palabras deben de ser de la misma longitud'
+

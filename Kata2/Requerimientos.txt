@@ -1,0 +1,6 @@
+Funcionales
+    1- El programa debe aceptar user input
+    2- El programa debe retornar si dos palabras son isomorfas
+
+No Funcionales
+    1- EL programa debe presentar las letras de la segunda palabra que corresponden a la primera
