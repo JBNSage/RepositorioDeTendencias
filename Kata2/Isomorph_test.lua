@@ -1,5 +1,5 @@
 lu = require("luaunit")
-require("IsomorphProgram")
+require("IsomorphProgramV2")
 
 function TestIsmorphTrue()
     lu.assertEquals(AreIsomorph("aab", "xxy"), true)
