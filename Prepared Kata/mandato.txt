@@ -1,0 +1,1 @@
+dado un rango [2,6) especificar si tiene los números {2,4}
